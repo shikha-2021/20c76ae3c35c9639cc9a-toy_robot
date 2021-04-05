@@ -24,7 +24,10 @@ Things you may want to cover:
 
 * Call Api from postman:
 
+	I have attached postman screenshot for the api in public folder, with name test_data.png
+	
 	Method: POST
+
 	Url: http://localhost:3000/api/robot/0/orders
 
 	Request body:
